@@ -1,0 +1,16 @@
+C:\Users\20103357\Documents\Visual Studio 2015\Projects\IdealBanking\Ideal\obj\Debug\Ideal.cusDetails.resources
+C:\Users\20103357\Documents\Visual Studio 2015\Projects\IdealBanking\Ideal\obj\Debug\Ideal.Form1.resources
+C:\Users\20103357\Documents\Visual Studio 2015\Projects\IdealBanking\Ideal\obj\Debug\Ideal.Home.resources
+C:\Users\20103357\Documents\Visual Studio 2015\Projects\IdealBanking\Ideal\obj\Debug\Ideal.Login.resources
+C:\Users\20103357\Documents\Visual Studio 2015\Projects\IdealBanking\Ideal\obj\Debug\Ideal.newUser.resources
+C:\Users\20103357\Documents\Visual Studio 2015\Projects\IdealBanking\Ideal\obj\Debug\Ideal.Properties.Resources.resources
+C:\Users\20103357\Documents\Visual Studio 2015\Projects\IdealBanking\Ideal\obj\Debug\Ideal.csproj.GenerateResource.Cache
+C:\Users\20103357\Documents\Visual Studio 2015\Projects\IdealBanking\Ideal\bin\Debug\Ideal.exe.config
+C:\Users\20103357\Documents\Visual Studio 2015\Projects\IdealBanking\Ideal\bin\Debug\Ideal.exe
+C:\Users\20103357\Documents\Visual Studio 2015\Projects\IdealBanking\Ideal\bin\Debug\Ideal.pdb
+C:\Users\20103357\Documents\Visual Studio 2015\Projects\IdealBanking\Ideal\obj\Debug\Ideal.csprojResolveAssemblyReference.cache
+C:\Users\20103357\Documents\Visual Studio 2015\Projects\IdealBanking\Ideal\obj\Debug\Ideal.Deposit.resources
+C:\Users\20103357\Documents\Visual Studio 2015\Projects\IdealBanking\Ideal\obj\Debug\Ideal.Withdraw.resources
+C:\Users\20103357\Documents\Visual Studio 2015\Projects\IdealBanking\Ideal\obj\Debug\Ideal.exe
+C:\Users\20103357\Documents\Visual Studio 2015\Projects\IdealBanking\Ideal\obj\Debug\Ideal.pdb
+C:\Users\20103357\Documents\Visual Studio 2015\Projects\IdealBanking\Ideal\obj\Debug\Ideal.Transfer.resources
